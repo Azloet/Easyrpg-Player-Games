@@ -4,4 +4,4 @@ Add to the end of the github pages url to switch game
 
 /?game=Wadanohara
 
-/?game=ゆめ2っき
+/?game=Yume-2kki
